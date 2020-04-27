@@ -1,0 +1,166 @@
+Analysis on Academy-Award Winning films box office gross, ratings, runtime, and US stock market performance for the 2000s
+
+Average box office gross, movie rating, runtime, and stock market price per year:
+Year: 2019
+Average box office gross: $331416666.6666667
+Average movie rating out of 10: 7.836363636363637 on IMDB
+Average movie runtime: 123.0 minutes
+Average stock market price: $249.195
+
+Year: 2018
+Average box office gross: $318033333.3333333
+Average movie rating out of 10: 7.536363636363637 on IMDB
+Average movie runtime: 123.9090909090909 minutes
+Average stock market price: $265.55916666666667
+
+Year: 2017
+Average box office gross: $224300000.0
+Average movie rating out of 10: 7.683333333333334 on IMDB
+Average movie runtime: 127.66666666666667 minutes
+Average stock market price: $249.9841666666667
+
+Year: 2016
+Average box office gross: $1880909090.909091
+Average movie rating out of 10: 7.7 on IMDB
+Average movie runtime: 116.3 minutes
+Average stock market price: $219.24083333333337
+
+Year: 2015
+Average box office gross: $259253846.15384614
+Average movie rating out of 10: 7.741666666666666 on IMDB
+Average movie runtime: 130.0 minutes
+Average stock market price: $180.095
+
+Year: 2014
+Average box office gross: $219050000.0
+Average movie rating out of 10: 7.699999999999998 on IMDB
+Average movie runtime: 105.46153846153847 minutes
+Average stock market price: $174.7075
+
+Year: 2013
+Average box office gross: $308618266.6666667
+Average movie rating out of 10: 7.640000000000001 on IMDB
+Average movie runtime: 112.5 minutes
+Average stock market price: $168.32916666666668
+
+Year: 2012
+Average box office gross: $342525000.0
+Average movie rating out of 10: 7.625 on IMDB
+Average movie runtime: 131.41666666666666 minutes
+Average stock market price: $150.57083333333333
+
+Year: 2011
+Average box office gross: $138813518.16666666
+Average movie rating out of 10: 7.358333333333333 on IMDB
+Average movie runtime: 114.41666666666667 minutes
+Average stock market price: $129.7508333333333
+
+Year: 2010
+Average box office gross: $464233333.3333333
+Average movie rating out of 10: 7.62 on IMDB
+Average movie runtime: 113.8 minutes
+Average stock market price: $120.71083333333333
+
+Year: 2009
+Average box office gross: $433519903.09090906
+Average movie rating out of 10: 7.790909090909091 on IMDB
+Average movie runtime: 122.63636363636364 minutes
+Average stock market price: $105.97333333333334
+
+Year: 2008
+Average box office gross: $263880632.5
+Average movie rating out of 10: 7.82 on IMDB
+Average movie runtime: 121.5 minutes
+Average stock market price: $88.90999999999998
+
+Year: 2007
+Average box office gross: $201949971.91666666
+Average movie rating out of 10: 7.591666666666665 on IMDB
+Average movie runtime: 116.5 minutes
+Average stock market price: $112.14166666666667
+
+Year: 2006
+Average box office gross: $222190909.0909091
+Average movie rating out of 10: 7.409090909090909 on IMDB
+Average movie runtime: 125.9090909090909 minutes
+Average stock market price: $131.9825
+
+Year: 2005
+Average box office gross: $193630769.23076922
+Average movie rating out of 10: 7.669230769230769 on IMDB
+Average movie runtime: 122.61538461538461 minutes
+Average stock market price: $114.72916666666667
+
+Year: 2004
+Average box office gross: $215604190.16666666
+Average movie rating out of 10: 7.33 on IMDB
+Average movie runtime: 129.0 minutes
+Average stock market price: $105.25833333333333
+
+Year: 2003
+Average box office gross: $391242857.14285713
+Average movie rating out of 10: 7.785714285714286 on IMDB
+Average movie runtime: 134.57142857142858 minutes
+Average stock market price: $103.41333333333331
+
+Year: 2002
+Average box office gross: $205133462.5
+Average movie rating out of 10: 7.7555555555555555 on IMDB
+Average movie runtime: 126.0 minutes
+Average stock market price: $90.35583333333331
+
+Year: 2001
+Average box office gross: $297941715.3636364
+Average movie rating out of 10: 7.725000000000001 on IMDB
+Average movie runtime: 126.33333333333333 minutes
+Average stock market price: $91.76166666666667
+
+Year: 2000
+Average box office gross: $186062500.0
+Average movie rating out of 10: 7.300000000000001 on IMDB
+Average movie runtime: 125.5 minutes
+Average stock market price: $101.38666666666667
+
+Correlation data:
+Relationship: Dow Jones Industrial Average by year (dollars) vs. average box office gross by year (dollars)
+Line of best fit: 187378942.9994293 + 1191737.2322968922x
+r value: 0.17122084828000386
+r^2 value: 0.0293165788857241
+Correlation: Almost nonexistent, Positive
+
+Relationship: Individual movie ratings (out of 10) vs. box office gross per individual movie (dollars)
+Line of best fit: -404853598.52122194 + 88455256.80056188x
+r value: 0.16105734914803796
+r^2 value: 0.025939469714593003
+Correlation: Almost nonexistent, Positive
+
+Relationship: Individual movie runtime (minutes) vs. box office gross per individual movie (dollars)
+Line of best fit: -77818383.48349077 + 2829229.2190687843x
+r value: 0.19951503795730208
+r^2 value: 0.03980625037110369
+Correlation: Almost nonexistent, Positive
+
+Relationship: Dow Jones Industrial Average by year (dollars) vs. Average yearly movie ratings (out of 10)
+Line of best fit: 7.527540441788934 + 0.0007353082582527024x
+r value: 0.23767678047649216
+r^2 value: 0.056490251977670644
+Correlation: Very weak, Positive
+
+Relationship: Dow Jones Industrial Average by year (dollars) vs. Average movie runtime by year (minutes)
+Line of best fit: 125.09794470169537 + -0.01882273051518699x
+r value: -0.13721905939165865
+r^2 value: 0.018829070260331544
+Correlation: Almost nonexistent, Negative
+
+Relationship: Average box office gross by year (dollars) vs. Average Movie ratings (out of 10)
+Line of best fit: 7.353104094765921 + 1.0298013464375024e-09x
+r value: 0.5460731137313224
+r^2 value: 0.29819584554022177
+Correlation: Moderate, Positive
+
+Relationship: Average movie runtime by year (minutes) vs. Average box office gross by year (dollars)
+Line of best fit: 72191032.82087845 + 1654004.7149887679x
+r value: 0.1394339597981635
+r^2 value: 0.019441829144995877
+Correlation: Almost nonexistent, Positive
+
